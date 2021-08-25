@@ -22,11 +22,15 @@
  *
  */
 
-const HDWallet = require("truffle-hdwallet-provider");
-const infuraKey = "fj4jll3k.....";
+const HDWalletProvider = require("truffle-hdwallet-provider");
 
-const fs = require("fs");
+// get infura.io prj id for udacity-blockchain-proj2-dapp
+const infuraKey = "";
+
+// get metamask account seed
+//const fs = require("fs");
 const mnemonic = ""; //fs.readFileSync(".secret").toString().trim();
+
 
 module.exports = {
   /**

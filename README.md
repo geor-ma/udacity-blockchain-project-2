@@ -14,6 +14,9 @@ Web3.js v1.5.1
 ```
 
 - @openzeppelin/contracts - version 4.3.0
-- ERC-721 Token Name:
-- ERC-721 Token Symbol:
-- Token Address on the Rinkeby Network:
+
+
+- ERC-721 Token Name: MG token
+- ERC-721 Token Symbol: MGT
+- Token Address on the Rinkeby Network: 0x1954dC495C36C42C5D7Af39B9699B1B360a3c658
+  https://rinkeby.etherscan.io/address/0x1954dC495C36C42C5D7Af39B9699B1B360a3c658
